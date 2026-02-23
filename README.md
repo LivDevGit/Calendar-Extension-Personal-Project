@@ -13,24 +13,29 @@ Built and tested for **GNOME 46** (perfect for distros like **Zorin OS 18**, Ubu
 * **Resource Friendly:** The timer updates efficiently every 30 seconds without draining battery or CPU.
 
 ## 📸 Screenshots
-Extension Preview on the GNOME Shell-like variant on Zorin OS 18:
-<img width="2880" height="1800" alt="Screenshot from 2026-02-23 10-08-02" src="https://github.com/user-attachments/assets/cf1a4b47-2737-43fb-b5b8-4038c6ca9d9a" />
 
-Extension Preview on the Windows-like variant on Zorin OS 18:
-<img width="2880" height="1800" alt="Screenshot from 2026-02-23 10-08-35" src="https://github.com/user-attachments/assets/de632ac6-47cf-4995-a4e5-07fc5d70c691" />
+<div align="center">
 
-Extension Settings Panel (Center (near clock) option):
-<img width="2880" height="1800" alt="Screenshot from 2026-02-23 10-09-16" src="https://github.com/user-attachments/assets/92310f88-0058-41fc-b352-974ce709e7d6" />
+  <h3><b>Extension Preview on the Windows-like variant on Zorin OS 18</b></h3>
+  <img src="https://github.com/user-attachments/assets/de632ac6-47cf-4995-a4e5-07fc5d70c691" />
+  <br><br><br>
 
-Extension Settings Panel (Left option):
-<img width="2880" height="1800" alt="Screenshot from 2026-02-23 10-09-24" src="https://github.com/user-attachments/assets/0146fde7-dd38-4422-a7c5-49e264952da1" />
+  <h3><b>Extension (Time Left) Showcase</b></h3>
+  <img src="https://github.com/user-attachments/assets/f23c0b49-3c43-4bca-9b51-c3d387282765" />
+  <br><br><br>
 
-Extension Settings Panel (Right option):
-<img width="2880" height="1800" alt="Screenshot from 2026-02-23 10-09-30" src="https://github.com/user-attachments/assets/43824b4c-4562-4f0f-95d0-db2d180d2dc9" />
+  <h3><b>Extension Settings Panel (Center option)</b></h3>
+  <img src="https://github.com/user-attachments/assets/92310f88-0058-41fc-b352-974ce709e7d6" />
+  <br><br><br>
 
-Extension ( Time Left ) Showcase:
-<img width="2880" height="1800" alt="Screenshot from 2026-02-23 11-00-53" src="https://github.com/user-attachments/assets/f23c0b49-3c43-4bca-9b51-c3d387282765" />
+  <h3><b>Extension Settings Panel (Left option)</b></h3>
+  <img src="https://github.com/user-attachments/assets/0146fde7-dd38-4422-a7c5-49e264952da1" />
+  <br><br><br>
 
+  <h3><b>Extension Settings Panel (Right option)</b></h3>
+  <img src="https://github.com/user-attachments/assets/43824b4c-4562-4f0f-95d0-db2d180d2dc9" />
+
+</div>
 ## ⚙️ Requirements
 
 * **GNOME Shell 46** (Uses the modern ESM import architecture).
