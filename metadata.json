@@ -1,0 +1,9 @@
+{
+  "name": "Next Event Timer",
+  "description": "Shows the next event from Evolution Calendar and time remaining.",
+  "uuid": "next-event@liviu.github.com",
+  "shell-version": [
+    "46"
+  ],
+  "url": "https://github.com/liviu/next-event-gnome-extension"
+}

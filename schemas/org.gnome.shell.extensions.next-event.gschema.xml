@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.next-event" path="/org/gnome/shell/extensions/next-event/">
+    <key name="panel-position" type="i">
+      <default>1</default>
+      <summary>Panel Position</summary>
+      <description>Position of the extension in the top bar.</description>
+    </key>
+  </schema>
+</schemalist>
