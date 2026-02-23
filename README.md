@@ -27,4 +27,4 @@ Since this extension is fresh out of the oven, you can install it easily from th
 
 1. **Clone the repository** into your local GNOME extensions directory:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/next-event-gnome-extension.git](https://github.com/YOUR-USERNAME/next-event-gnome-extension.git) ~/.local/share/gnome-shell/extensions/next-event@YOUR-USERNAME.github.com
+   git clone https://github.com/LivDevGit/next-event-gnome-extension.git ~/.local/share/gnome-shell/extensions/next-event@LivDevGit.github.com
