@@ -38,6 +38,7 @@ Built and tested for **GNOME 46** (perfect for distros like **Zorin OS 18**, Ubu
   <h3><b>Extension Settings Panel (Right option)</b></h3>
   <br>
   <img src="https://github.com/user-attachments/assets/43824b4c-4562-4f0f-95d0-db2d180d2dc9" />
+  <br>
 
 </div>
 ## ⚙️ Requirements
